@@ -19,6 +19,8 @@ The paper makes significant contributions to the field by:
 1. Providing a comprehensive analysis of various defense strategies against adversarial attacks.
 2. Developing three novel attacks that successfully breach these defenses.
 
+[Watch the Defense Implementation Video](https://github.com/Shruti2301/Feature-Distillation-as-a-Defense-Mechanism/blob/main/Defense%20Implementation.mp4)
+
 ## Approach
 
 The research involved a thorough examination of different defense mechanisms and devising methods to circumvent them. The focus was on enhancing the strength of obfuscated gradients against direct (white-box) attacks.
